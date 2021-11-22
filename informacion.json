@@ -1,12 +1,11 @@
 {
-	"prefijo": ".",
-	"BotControlador": "51948258899@s.whatsapp.net",
-	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
-	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
-	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
-	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]"
-}
+    "botcontrolador": "51940425018@s.whatsapp.net",
+    "contribuidor": "593969230480@s.whatsapp.net",
+    "tarjetavirtualx": "+593 96 923 0480",
+    "tarjetavirtualy": "+51 940 425 018",
+    "dueñobot": "Agente_Cat",
+    "misredes": "~>Pagina de facebook:\n[Nu hay]\n\n~>Canal de Youtube:\n[Pronto OwO]\n\n~>Otras redes sociales:\n[Tik Tok?]",
+  "limiteengrupos": "2",
+  "limitecomandos": "50",
+  "nombrebot": "*_Sky-Black_Daisky_* *_O_o_*"
+  } 
